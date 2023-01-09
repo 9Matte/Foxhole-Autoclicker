@@ -1,0 +1,6 @@
+mining:l
+gate:k
+forward:j
+run:i
+drive:o
+arty:p
